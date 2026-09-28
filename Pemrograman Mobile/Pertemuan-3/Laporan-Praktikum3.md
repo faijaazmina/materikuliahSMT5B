@@ -133,6 +133,8 @@ DATA RIWAYAT
 ![alt text](hasil_pengujian_gif.gif)
 
 
+
+
  
 
 
