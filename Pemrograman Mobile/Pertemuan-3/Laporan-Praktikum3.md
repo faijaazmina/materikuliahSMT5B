@@ -131,7 +131,7 @@ DATA RIWAYAT
 5. Menyimpan hasil pengujian sebagai dokumentasi.
 
 ![alt text](hasil_pengujian_gif(1).gif)
-![alt text][Uploading hasil_pengujian_gif(1).gif…]()
+
 
 
 
