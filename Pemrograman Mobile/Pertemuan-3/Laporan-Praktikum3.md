@@ -130,11 +130,8 @@ DATA RIWAYAT
 4. Mengecek tampilan setiap komponen.
 5. Menyimpan hasil pengujian sebagai dokumentasi.
 
-<<<<<<< HEAD
 ![alt text](hasil_pengujian_gif.gif)
-=======
- ![alt text](hasil_pengujian,mp4)
->>>>>>> 84c86fd6ad9e8a5f0f755d301351e8c17dedee6e
+
 
  
 
