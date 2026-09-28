@@ -1,4 +1,4 @@
-<img width="480" height="967" alt="hasil_pengujian_gif (1)" src="https://github.com/user-attachments/assets/6f9c6939-33cc-452c-9c7b-15149da0dc54" /># Laporan Praktikum 3: Core component dan Styling # 
+# Laporan Praktikum 3: Core component dan Styling # 
 
 ### 📝 Langkah 1: Import Library & Components ###
 
@@ -129,6 +129,14 @@ DATA RIWAYAT
 3. Mencoba interaksi seperti switch, input, modal, dan tombol.
 4. Mengecek tampilan setiap komponen.
 5. Menyimpan hasil pengujian sebagai dokumentasi.
+
+
+
+<img width="480" height="967" alt="hasil_pengujian_gif (1)" src="https://github.com/user-attachments/assets/6f9c6939-33cc-452c-9c7b-15149da0dc54" />
+
+
+
+
 
 
 
