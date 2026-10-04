@@ -38,11 +38,8 @@ react-native-safe-area-context react-native-gesture-handler react-native-reanima
 ## B. Praktikum 2: Bottom Tab Navigation
 
 Tab Navigation menampilkan menu menetap di bagian bawah layar (seperti aplikasi Instagram/WhatsApp).
-
 1. Instalasi Pustaka Bottom Tabs: npm install @react-navigation/bottom-tabs
-
 2. Membuat Layar Baru yaitu file `HomeScreen.js` dan `ProfileScreen.js` di dalam folder `screens`
-
 3. Konfigurasi Tab di `App.js` dengan mengubah isi `App.js` menjadi seperti kode yang sudah ditentukan pada modul praktikum
 
 ![alt text](image-3.png)
@@ -56,9 +53,7 @@ Tab Navigation menampilkan menu menetap di bagian bawah layar (seperti aplikasi 
 ## C. Praktikum 3: Drawer Navigation
 
 Drawer menampilkan panel navigasi samping (sidebar) yang dapat digeser atau dibuka melalui ikon Hamburger.
-
 1. Instalasi Pustaka Drawer: npm install @react-navigation/drawer
-
 2. Konfigurasi Drawer di `App.js` dengan mengubah kembali file `App.js` untuk mencoba Drawer Navigation menggunakan layar Home dan Profile yang sudah dibuat sebelumnya
 
 ![alt text](image-6.png)
